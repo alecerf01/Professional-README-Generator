@@ -27,7 +27,7 @@ inquirer
       type: "checkbox",
       message: "Choose your license",
       name: "license",
-      choices: ["MIT","ISC","PUBLIC"]
+      choices: ["MIT","Other","GPLv2","Apache", "GPLv2"]
     },
     {
       type: "input",
